@@ -11,9 +11,13 @@ The data was extracted from the Amazon website and read into a a Colab notebook 
 # Results
 
 ## Vine v. Non Vine Reviewers
-here we see that there are significantly more Non-Vine reviewers than Vine Reviewers
+**here we see that there are significantly more Non-Vine reviewers than Vine Reviewers**
 
-**insert vine and non vine pics here**
+![Total_Vine_Reviews.png](https://github.com/NShan9297/Amazon_Vine_Analysis/blob/main/ScreenShots/Total_Vine_Reviews.png)
+**there are 261 total Vine Reviewers**
+
+![non_vine_reviews.png](https://github.com/NShan9297/Amazon_Vine_Analysis/blob/main/ScreenShots/non_vine_reviews.png)
+**there are 24,040 total Non-Vine Reviewers**
 
 ## 5 star Vine Reviews
 
