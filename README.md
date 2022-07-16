@@ -30,10 +30,14 @@ The data was extracted from the Amazon website and read into a a Colab notebook 
 ## 5 star Vine Percentage 
 ![vine_user_percentage.png](https://github.com/NShan9297/Amazon_Vine_Analysis/blob/main/ScreenShots/vine_user_percentage.png)
 
+**40.61 % of the Vine Reviews were 5 stars**
+
 ## 5 Star Non-Vine Percentage
 ![non_user_percentage.png](https://github.com/NShan9297/Amazon_Vine_Analysis/blob/main/ScreenShots/non_user_percentage.png)
 
+**45.34% of the Non-Vine Reviews were 5 stars**
 # Summary 
-Overall, there does not appear to be a positivity bias. Comparatively, the figures seem to be about the same. 
+Overall, there does not appear to be a positivity bias. Comparatively, the figures are about the same. 
 With a larger data set, there is a limit to where the numbers begin to add much value. With this very large data set, it appears that we may have reached this point.
-There is less than 50% but more than 40% for both sets of reviwers. It appears that the customers each gave their honest opinion. 
+There is less than 50% but more than 40% for both sets of reviwers. It appears that the customers each gave their honest opinion and were not swayed by having received 
+the products they reviewed for free. 
